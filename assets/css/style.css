@@ -291,6 +291,43 @@ form input[type="submit"]:hover {
 .text-center a:hover {
     text-decoration: underline;
 }
+/* Styling for Gallery Section */
+#gallery {
+    padding: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+#gallery h2 {
+    color: #4CAF50;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.gallery-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.gallery-box {
+    background-color: white;
+    border: 3px solid #4CAF50; /* Zelený rámeček */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.gallery-image,
+.gallery-video {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 5px; /* Zaoblené rohy */
+}
+
 
 /* Styling for footer social links */
 footer .social-links {
@@ -333,15 +370,18 @@ footer .social-links a:hover {
 }
 
 .gallery-box {
-    background-color: #f0f0f0;
-    border: 2px solid #ddd;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    border: 3px solid #4CAF50; /* Green border */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
     overflow: hidden;
+    padding: 5px; /* Add some spacing inside the box */
 }
 
-.gallery-image {
+.gallery-image,
+.gallery-video {
     width: 100%;
     height: auto;
     display: block;
+    border-radius: 5px; /* Rounded corners */
 }
