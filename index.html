@@ -18,9 +18,58 @@
                 <li><a href="#questionnaire">Questionnaire</a></li>
             </ul>
         </nav>
-    <main>
-        <p>This is the main content of the website.</p>
-    </main>
+    </header>
+    <section id="introduction">
+        <div class="image-container">
+            <img src="assets/images/main-picture.jpg" alt="Group Meditation" class="responsive-image">
+            <div class="image-text">
+                <h2>Introduction</h2>
+                <p>Welcome to my page dedicated to meditation and living a stress-free life. Here, you'll learn how meditation can improve your life quality and help you manage stress effectively.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="meditation">
+        <h2>What is Meditation?</h2>
+        <img src="assets/images/meditation-people.jpg" alt="Peaceful Bamboo Garden" class="responsive-image">
+        <p>Meditation is a technique focused on calming the mind, improving concentration, and achieving inner peace. It helps reduce stress and enhances both mental and physical health.</p>
+    </section>
+
+    <section id="tips">
+        <h2>Tips for a Stress-Free Life</h2>
+        <div class="tips-container">
+            <div class="tip-box">
+                <h3>Establish a Routine</h3>
+                <p>Commit to a daily time and place that supports calmness and focus.</p>
+            </div>
+            <div class="tip-box">
+                <h3>Create a Dedicated Space</h3>
+                <p>Set up a specific area in your home for meditation.</p>
+            </div>
+           
+        </div>
+    </section>
+
+    <section id="questionnaire">
+        <h2>Stress Questionnaire</h2>
+        <form>
+            <p>Do you feel that your stress is related to work?</p>
+            <input type="radio" id="workStressYes" name="workStress" value="yes">
+            <label for="workStressYes">Yes</label><br>
+            <input type="radio" id="workStressNo" name="workStress" value="no">
+            <label for="workStressNo">No</label><br>
+
+            <label for="relaxation">How often do you take time to relax?</label><br>
+            <select id="relaxation" name="relaxation">
+                <option value="daily">Daily</option>
+                <option value="weekly">Weekly</option>
+                <option value="rarely">Rarely</option>
+            </select><br>
+
+            <input type="submit" value="Submit">
+        </form>
+    </section>
+
     <footer>
         <p>&copy; 2025 My Project</p>
     </footer>
