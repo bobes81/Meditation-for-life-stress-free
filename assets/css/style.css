@@ -200,3 +200,22 @@ form input[type="submit"]:hover {
 .text-center a:hover {
     text-decoration: underline;
 }
+/* Styling for footer social links */
+footer .social-links {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+footer .social-links a {
+    color: #4CAF50;
+    font-size: 24px;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+footer .social-links a:hover {
+    color: #45a049;
+    transform: scale(1.2); /* Zvýraznění při najetí */
+}
+
