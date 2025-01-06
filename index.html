@@ -32,7 +32,7 @@
     <section id="meditation">
         <h2>What is Meditation?</h2>
         <img src="assets/images/meditation-people.jpg" alt="Peaceful Bamboo Garden" class="responsive-image">
-        <p>Meditation is a practice that helps individuals achieve mental clarity, emotional calmness, and physical relaxation. It often involves techniques like focusing on the breath, observing thoughts without judgment, or repeating calming phrases. Meditation is widely recognized for its benefits in reducing stress, improving concentration, enhancing self-awareness, and fostering a sense of inner peace. It is a versatile practice that can be adapted to suit various goals, from improving mental health to simply finding moments of stillness in a busy day.</p>
+        <p>Meditation is a technique focused on calming the mind, improving concentration, and achieving inner peace. It helps reduce stress and enhances both mental and physical health.</p>
     </section>
 <!--Tips seciton-->
 <section id="tips">
@@ -90,25 +90,30 @@
 </section>
 
 <!--End of tip section-->
-    <section id="questionnaire">
-        <h2>Stress Questionnaire</h2>
-        <form>
-            <p>Do you feel that your stress is related to work?</p>
-            <input type="radio" id="workStressYes" name="workStress" value="yes">
-            <label for="workStressYes">Yes</label><br>
-            <input type="radio" id="workStressNo" name="workStress" value="no">
-            <label for="workStressNo">No</label><br>
+<section id="contact">
+    <h2>Contact Me</h2>
+    <form action="thankyou.html" method="get">
+        <label for="firstName">First Name</label>
+        <input type="text" id="firstName" name="firstName" required>
 
-            <label for="relaxation">How often do you take time to relax?</label><br>
-            <select id="relaxation" name="relaxation">
-                <option value="daily">Daily</option>
-                <option value="weekly">Weekly</option>
-                <option value="rarely">Rarely</option>
-            </select><br>
+        <label for="lastName">Last Name</label>
+        <input type="text" id="lastName" name="lastName" required>
 
-            <input type="submit" value="Submit">
-        </form>
-    </section>
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="5" required></textarea>
+
+        <input type="submit" value="Submit">
+    </form>
+    <div class="text-center">
+        <p>If your request is urgent, you can also contact me directly by phone:</p>
+        <p><a href="tel:01123456789">01 123 456 789</a></p>
+    </div>
+</section>
+
+    <!-- End of Contact Form Confirmation Section -->
 
     <footer>
         <p>&copy; 2024 Meditation and Stress-Free Life</p>

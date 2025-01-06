@@ -4,55 +4,55 @@ body {
     margin: 0;
     padding: 0;
     background-color: #fff9e6; /* Soft yellow background */
-  }
-  
-  header {
+}
+
+header {
     background-color: #4CAF50;
     color: white;
     padding: 15px;
     text-align: center;
-  }
-  
-  header h1 {
+}
+
+header h1 {
     margin: 0;
-  }
-  
-  nav ul {
+}
+
+nav ul {
     list-style-type: none;
     padding: 0;
-  }
-  
-  nav ul li {
+}
+
+nav ul li {
     display: inline;
     margin: 0 15px;
-  }
-  
-  nav ul li a {
+}
+
+nav ul li a {
     color: white;
     text-decoration: none;
     padding: 5px 10px;
     border-radius: 5px;
     transition: background-color 0.3s ease;
-  }
-  
-  nav ul li a:hover {
+}
+
+nav ul li a:hover {
     background-color: white;
     color: #4CAF50;
-  }
-  
-  .image-container {
+}
+
+.image-container {
     position: relative;
     text-align: center;
     color: white;
-  }
-  
-  .responsive-image {
+}
+
+.responsive-image {
     width: 100%;
     height: auto;
     border-radius: 8px;
-  }
-  
-  .image-text {
+}
+
+.image-text {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -61,96 +61,142 @@ body {
     background-color: rgba(0, 0, 0, 0.6);
     padding: 20px;
     border-radius: 8px;
-  }
-  
-  section {
+}
+
+section {
     padding: 20px;
     margin: 20px;
     background-color: white;
     border-radius: 8px;
-  }
-  
-  h2 {
+}
+
+h2 {
     color: #4CAF50;
-  }
-  
-  footer {
+}
+
+footer {
     text-align: center;
     padding: 10px;
     background-color: #333;
     color: white;
-  }
-  
-  /* Responsive design */
-  @media (max-width: 768px) {
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
     nav ul li {
         display: block;
         margin: 10px 0;
     }
-  
+
     section {
         margin: 10px;
     }
-  
+
     header h1 {
         font-size: 24px;
     }
-  }
-  
-  /* Form styling */
-  form {
+}
+
+/* Form styling */
+form {
     display: grid;
     gap: 10px;
     max-width: 400px;
     margin: auto;
-  }
-  
-  form input, form select {
+}
+
+form input, form select {
     padding: 10px;
     font-size: 16px;
     width: 100%;
     border-radius: 5px;
     border: 1px solid #ccc;
-  }
-  
-  form input[type="submit"] {
+}
+
+form input[type="submit"] {
     background-color: #4CAF50;
     color: white;
     border: none;
     cursor: pointer;
-  }
-  
-  form input[type="submit"]:hover {
+}
+
+form input[type="submit"]:hover {
     background-color: #45a049;
-  }
-  
-  /* New Styles for Meditation Tips Boxes */
-  .tips-container {
+}
+
+/* New Styles for Meditation Tips Boxes */
+.tips-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
     padding: 20px;
-  }
-  
-  .tip-box {
+}
+
+.tip-box {
     background-color: #f0f0f0;
     border: 2px solid #ddd;
     padding: 15px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     transition: transform 0.3s ease-in-out;
-  }
-  
-  .tip-box:hover {
+}
+
+.tip-box:hover {
     transform: translateY(-5px);
     box-shadow: 0 6px 20px rgba(0,0,0,0.2);
-  }
-  
-  .tip-box h3 {
+}
+
+.tip-box h3 {
     color: #4CAF50;
-  }
-  
-  .tip-box p {
+}
+
+.tip-box p {
     font-size: 16px;
     color: #666;
-  }
+}
+
+/* Styling for Contact Form */
+#contact form {
+    display: grid;
+    gap: 10px;
+    max-width: 400px;
+    margin: auto;
+}
+
+#contact label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#contact input, #contact textarea {
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#contact input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#contact input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.text-center {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.text-center a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+.text-center a:hover {
+    text-decoration: underline;
+}
