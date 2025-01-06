@@ -17,6 +17,78 @@ header h1 {
     margin: 0;
 }
 
+.image-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 90%; /* Zajišťuje, že text se nevejde mimo obrázek */
+    text-align: center; /* Zajišťuje lepší zarovnání textu */
+    box-sizing: border-box;
+}
+
+/* Flexbox styling for Introduction */
+#introduction {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 20px;
+    flex-wrap: wrap; /* Pro menší obrazovky */
+}
+
+#introduction .text-container {
+    flex: 1; /* Zabírá polovinu šířky */
+    max-width: 600px; /* Maximální šířka textu */
+}
+
+#introduction .image-container {
+    flex: 1; /* Zabírá polovinu šířky */
+    max-width: 400px; /* Maximální šířka obrázku */
+}
+
+#introduction .responsive-image {
+    width: 100%; /* Obrázek bude plně responzivní */
+    height: auto;
+    border-radius: 8px; /* Kulaté rohy */
+}
+
+/* Responsivní úpravy */
+@media (max-width: 768px) {
+    #introduction {
+        flex-direction: column; /* Vertikální zarovnání na mobilních zařízeních */
+    }
+
+    #introduction .text-container, 
+    #introduction .image-container {
+        max-width: 100%; /* Text a obrázek zabírají celou šířku */
+    }
+
+    #introduction .image-container {
+        text-align: center;
+    }
+}
+
+/* Responsive design for Introduction text */
+@media (max-width: 768px) {
+    .image-text {
+        position: static; /* Text nebude překrývat obrázek */
+        transform: none;
+        background-color: transparent; /* Odstraní pozadí pro lepší čitelnost */
+        color: #333; /* Změna barvy textu pro lepší kontrast */
+        padding: 10px 0;
+        text-align: center;
+    }
+
+    .image-container {
+        text-align: center;
+    }
+}
+
 nav ul {
     list-style-type: none;
     padding: 0;
