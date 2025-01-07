@@ -201,3 +201,16 @@ The "Meditation for a Stress-Free Life" project underwent thorough testing to en
 - **Cross-Browser Compatibility**: The website was tested on multiple browsers, including Chrome, Firefox, Safari, and Edge, to verify consistent performance.
 - **Performance Testing**: The website was optimized for fast loading times, providing a smooth experience for users.
 
+## Accessibility
+
+The "Meditation for a Stress-Free Life" project was designed with accessibility in mind, ensuring that users of all abilities can interact with and benefit from the website. Key accessibility features include:
+
+- **Semantic HTML**: Properly structured and meaningful HTML tags are used to improve screen reader compatibility and user navigation.
+- **Color Contrast**: The color scheme was chosen to provide sufficient contrast, making text and visual elements easy to read.
+- **Keyboard Navigation**: The website is fully navigable using a keyboard, ensuring that users who cannot use a mouse can still access all features.
+- **Responsive Design**: The layout adapts seamlessly to different screen sizes, allowing users on desktops, tablets, and mobile devices to enjoy a consistent experience.
+- **Alt Text**: All images and multimedia elements include descriptive `alt` attributes, aiding visually impaired users in understanding visual content.
+- **Readable Fonts**: Fonts are simple and legible, enhancing readability for all users.
+- **Clear Navigation**: A straightforward and intuitive navigation menu ensures users can find the information they need without difficulty.
+
+By prioritizing these features, the website aligns with best practices for web accessibility, creating an inclusive experience for a diverse audience.
