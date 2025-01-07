@@ -240,3 +240,16 @@ Validated that all buttons and hyperlinks function correctly, providing expected
 
 By performing these tests, the website achieves a high level of functionality, ensuring a seamless and reliable user experience.
 
+
+
+## Validation Results
+
+The project was tested using W3C validation tools to ensure the HTML and CSS meet the web standards.
+
+- **HTML Validation**:  
+  ![HTML Validator](docs/readme_images/htmlvalidator.jpg)
+
+- **CSS Validation**:  
+  ![CSS Validator](docs/readme_images/cssvalidator.jpg)
+
+Both validations completed successfully without errors, confirming that the code is valid and adheres to standards.
