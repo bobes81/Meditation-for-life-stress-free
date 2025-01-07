@@ -174,3 +174,16 @@ The design of the "Meditation for a Stress-Free Life" website was carefully plan
 
 The overall design aims to support the theme of stress reduction and mindfulness by delivering a serene, distraction-free interface.
 
+
+## Technologies
+
+The "Meditation for a Stress-Free Life" project was built using the following technologies:
+
+- **HTML**: Used to structure the content of the webpage.
+- **CSS**: Applied for styling and layout, ensuring a visually appealing and responsive design.
+- **Git**: Utilized for version control and tracking code changes throughout the development process.
+- **GitHub**: Used for hosting the project repository, allowing collaboration and code sharing.
+- **Favicon**: A custom favicon was included to enhance the website's branding and provide a professional touch. The favicon appears in the browser tab and bookmark bar, helping users quickly identify the website. Various sizes of the favicon were implemented for compatibility across devices and browsers.
+
+These technologies work together to deliver a functional, responsive, and user-friendly website that meets the project goals.
+
