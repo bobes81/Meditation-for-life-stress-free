@@ -93,10 +93,48 @@ After submitting the contact form, users will see this confirmation message.
 
 
 
+## Existing Features
+
+Responsive Design:
+The website is fully responsive and optimized for different screen sizes, ensuring an excellent user experience on mobile, tablet, and desktop devices.
+
+Navigation Menu:
+A clean and intuitive navigation menu allows users to easily access various sections of the website, including the Introduction, Meditation, Tips, Gallery, and Contact pages.
+
+Gallery Section:
+The Gallery showcases visually appealing AI-generated images and one video that illustrate the meditative experience and a serene lifestyle.
+
+Contact Form:
+Users can submit their inquiries or messages directly through the Contact Form. A "Thank You" confirmation page acknowledges successful submissions and provides further contact details for urgent queries.
+
+404 Error Page:
+A custom 404 error page is displayed if users navigate to a nonexistent page, helping to maintain the site's professionalism.
+
+Footer Section:
+The footer includes copyright details, the author's contact information, and social media links to enhance user engagement and provide alternative communication channels.
+
+Practical Meditation Tips:
+A section dedicated to practical advice on incorporating meditation into daily routines, helping users lead a stress-free life.
 
 
+### Features Left to Implement
+Interactive Meditation Timer:
+Add a built-in timer on the website to help users time their meditation sessions conveniently.
 
+Audio and Guided Meditation Tracks:
+Include downloadable or streamable meditation audio tracks that guide users through meditative practices.
 
+User Accounts and Progress Tracking:
+Allow users to create accounts, log their meditation progress, and receive personalized feedback or tips.
+
+Multilingual Support:
+Enable language options to make the website accessible to a broader audience globally.
+
+Blog Section:
+Add a blog page featuring articles about meditation techniques, mindfulness, and wellness tips to provide continuous value to users.
+
+Dark Mode Option:
+Provide a dark mode feature for users who prefer a less bright interface for nighttime browsing.
 
 
 ## Introduction
