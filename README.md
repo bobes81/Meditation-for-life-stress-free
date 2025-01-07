@@ -240,3 +240,47 @@ The project was tested using W3C validation tools to ensure the HTML and CSS mee
   ![CSS Validator](docs/readme_images/cssvalidator.jpg)
 
 Both validations completed successfully without errors, confirming that the code is valid and adheres to standards.
+
+
+## Deployment
+The "Meditation for a Stress-Free Life" project was deployed using GitHub Pages to ensure easy access for users across various devices. Below are the steps followed for deployment:
+
+- **Push the Code to GitHub Repository**: 
+
+The entire project was developed locally and version-controlled using Git.
+Changes were committed and pushed to the remote repository hosted on GitHub.
+Enable GitHub Pages:
+
+- **Navigate to the repository's settings on GitHub**: 
+Under the "Pages" section, select the branch to deploy (e.g., main) and choose the / (root) folder.
+Save the changes, and GitHub Pages will automatically build and deploy the site.
+Access the Deployed Site:
+
+The live website is now accessible through the URL provided by GitHub Pages.
+Updates to the site are reflected automatically after pushing changes to the specified branch.
+
+- **Key Benefits of Deployment via GitHub Pages**: 
+Free Hosting: GitHub Pages provides a cost-effective way to host static websites.
+Automatic Updates: Any changes pushed to the repository are automatically reflected on the live site.
+User-Friendly URL: GitHub Pages generates an easy-to-share URL for the deployed project.
+
+## Version Control
+This project utilized Git for version control, ensuring that the development process was smooth, organized, and collaborative. Key aspects of version control implementation include:
+
+- **Branching and Merging**:
+
+Separate branches were created for feature development.
+Changes were merged into the main branch after thorough testing and review.
+
+- **Commit History**:
+
+Clear and descriptive commit messages were used to track changes.
+This ensured that the development progress could be reviewed and understood easily.
+
+- **GitHub Integration**:
+
+The project was hosted on GitHub, allowing for seamless collaboration and issue tracking.
+GitHub's interface provided an efficient way to manage branches, pull requests, and resolve merge conflicts.
+These practices ensured a reliable and traceable development process, resulting in a well-maintained project repository.
+
+
