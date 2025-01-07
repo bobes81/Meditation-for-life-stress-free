@@ -1,5 +1,6 @@
 # Meditation-for-life-stress-free
 My 1st project for Code Institute
+![Bamboo-nature](assets/images/main-picture.jpg)
 
 Meditation for a Stress-Free Life
 Welcome to the "Meditation for a Stress-Free Life" project. This website is designed to assist individuals in understanding and incorporating meditation into their daily lives to manage stress effectively.
