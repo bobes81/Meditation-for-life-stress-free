@@ -12,7 +12,21 @@ This project aims to introduce meditation as a viable solution to reduce stress 
 
 ![Navigation Bar](docs/readme_images/nav-bar.jpg)
 
-Features:
+Navigation Menu
+
+The website features a clean and intuitive navigation menu, located at the top of the page, designed to provide easy access to all major sections. The navigation menu includes the following links:
+
+Home: Takes users back to the homepage.
+Introduction: Offers an overview of the website and its purpose.
+Meditation: Explains the concept of meditation and its benefits.
+Tips for a Stress-Free Life: Provides practical advice and actionable tips for reducing stress.
+Gallery: A visual showcase of peaceful imagery and a meditation video.
+Contact: A form where users can reach out for more information or support.
+The navigation menu is styled with a vibrant green background (#4CAF50) to align with the theme of calmness and balance. It ensures a seamless browsing experience by remaining consistent across all devices, thanks to its responsive design.
+
+
+
+
 Introduction
 Explore the core concepts of the website and what you can expect to learn about meditation and its life-changing benefits.
 
