@@ -29,8 +29,13 @@ Gallery: A visual showcase of peaceful imagery and a meditation video.
 Contact: A form where users can reach out for more information or support.
 
 
-Footer
+
 ![Footer](docs/readme_images/footer.jpg)
+
+Footer
+
+The footer of the website provides essential contact information and social media links. It includes the copyright notice for the project, the author's name, and an email address for further communication. Additionally, it features social media icons for Instagram and Facebook, styled to match the overall theme of the website.
+
 
 
 The navigation menu is styled with a vibrant green background (#4CAF50) to align with the theme of calmness and balance. It ensures a seamless browsing experience by remaining consistent across all devices, thanks to its responsive design.
