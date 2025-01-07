@@ -187,3 +187,17 @@ The "Meditation for a Stress-Free Life" project was built using the following te
 
 These technologies work together to deliver a functional, responsive, and user-friendly website that meets the project goals.
 
+
+## Testing
+
+The "Meditation for a Stress-Free Life" project underwent thorough testing to ensure it provides a seamless and user-friendly experience across all devices, including desktops, tablets, and mobile phones.
+
+### Key Testing Points:
+- **Responsive Design**: The website was tested on various screen sizes, ensuring all elements adjust gracefully and remain functional on desktops, tablets, and smartphones.
+- **Navigation Menu**: All navigation links were tested to confirm they lead to the correct sections without errors.
+- **Gallery Section**: Images and the video in the Gallery load properly, with consistent green borders around visual elements across devices.
+- **Forms**: The Contact Form was validated to ensure all required fields work correctly, and users receive a confirmation message upon successful submission.
+- **404 Page**: The custom 404 error page displays correctly when users try to access non-existent pages.
+- **Cross-Browser Compatibility**: The website was tested on multiple browsers, including Chrome, Firefox, Safari, and Edge, to verify consistent performance.
+- **Performance Testing**: The website was optimized for fast loading times, providing a smooth experience for users.
+
