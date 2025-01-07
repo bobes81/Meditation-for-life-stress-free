@@ -69,6 +69,35 @@ Each image is styled with a consistent size and bordered with a subtle green fra
 
 
 
+## Contact Form
+Contact Form
+The website includes a Contact Form designed to allow users to get in touch directly. It collects the following user details:
+
+First Name
+Last Name
+Email Address
+A personal message
+Upon submission, the user is directed to a confirmation page with the message:
+"Thank you for contacting me. I aim to reply within 2–4 days. If your request is urgent, you can also contact me directly by phone on: 01 123 456 789."
+This ensures users receive clear acknowledgment of their message and know how to proceed in urgent cases.
+
+The Contact Form is simple, accessible, and designed to improve user interaction and support.
+![Contact Form](docs/readme_images/contact-form.jpg)
+
+### Thank You Page
+After submitting the contact form, users will see this confirmation message.
+
+![Thank You Page](docs/readme_images/thankyou.jpg)
+
+
+
+
+
+
+
+
+
+
 
 ## Introduction
 Explore the core concepts of the website and what you can expect to learn about meditation and its life-changing benefits.
