@@ -10,6 +10,8 @@ Welcome to the "Meditation for a Stress-Free Life" project. This website is desi
 About the Project: 
 This project aims to introduce meditation as a viable solution to reduce stress and enhance well-being. It provides practical advice and insights into how meditation can transform your mental and physical health.
 
+![Navigation Bar](docs/readme_images/nav-bar.jpg)
+
 Features:
 Introduction
 Explore the core concepts of the website and what you can expect to learn about meditation and its life-changing benefits.
