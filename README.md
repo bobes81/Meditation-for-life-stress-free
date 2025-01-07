@@ -50,8 +50,19 @@ The favicon used in this project is a simple and meaningful emoji that aligns wi
 The 404.html page is a custom error page designed to inform users when they attempt to access a page that does not exist on the website. It features a simple message and a link to return to the homepage. This ensures a better user experience by gracefully handling broken links or incorrect URLs.
 
 
+
+
+
+
+
+
+
 ![Gallery](docs/readme_images/Gallery.jpg)
 
+## Gallery Page
+The Gallery Page showcases a selection of AI-generated images and a single video that represent the serene and calming essence of meditation. The content has been specifically designed to avoid any copyright concerns, ensuring originality.
+
+Each image is styled with a consistent size and bordered with a subtle green frame to complement the website’s aesthetic. The included video adds a dynamic and engaging element, further enhancing the user experience. This section is visually appealing and helps users connect with the tranquility and mindfulness promoted by the website.
 
 
 
