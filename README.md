@@ -41,6 +41,13 @@ The footer of the website provides essential contact information and social medi
 The navigation menu is styled with a vibrant green background (#4CAF50) to align with the theme of calmness and balance. It ensures a seamless browsing experience by remaining consistent across all devices, thanks to its responsive design.
 
 
+Favicon
+
+The favicon used in this project is a simple and meaningful emoji that aligns with the website's theme of meditation and tranquility. It is designed to provide a visually appealing and recognizable icon for the website in browser tabs. The favicon adds a personal and modern touch to the overall design.
+
+
+
+
 
 
 ## Introduction
