@@ -55,14 +55,18 @@ The 404.html page is a custom error page designed to inform users when they atte
 
 
 
-
-
-![Gallery](docs/readme_images/Gallery.jpg)
-
 ## Gallery Page
 The Gallery Page showcases a selection of AI-generated images and a single video that represent the serene and calming essence of meditation. The content has been specifically designed to avoid any copyright concerns, ensuring originality.
 
 Each image is styled with a consistent size and bordered with a subtle green frame to complement the website’s aesthetic. The included video adds a dynamic and engaging element, further enhancing the user experience. This section is visually appealing and helps users connect with the tranquility and mindfulness promoted by the website.
+
+
+
+
+
+![Gallery](docs/readme_images/Gallery.jpg)
+
+
 
 
 
