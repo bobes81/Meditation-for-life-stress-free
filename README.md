@@ -214,3 +214,29 @@ The "Meditation for a Stress-Free Life" project was designed with accessibility 
 - **Clear Navigation**: A straightforward and intuitive navigation menu ensures users can find the information they need without difficulty.
 
 By prioritizing these features, the website aligns with best practices for web accessibility, creating an inclusive experience for a diverse audience.
+
+
+##Functional Testing
+
+- **The "Meditation for a Stress-Free Life" project underwent thorough functional testing to ensure that all features work as intended and provide a smooth user experience. Key areas of functional testing include:
+
+- **CNavigation Menu**:
+Verified that all links in the navigation bar direct users to the correct sections of the webpage or external pages, ensuring an effortless browsing experience.
+
+- **CGallery Section**:
+Ensured that all images and the video in the gallery load correctly, maintain proper formatting, and display within their respective green-bordered containers.
+
+- **CContact Form**:
+Tested form functionality, including all input fields (first name, last name, email, and message). Verified form submission leads users to the thank-you page as expected.
+
+- **C404 Page**:
+Confirmed that attempting to access non-existent pages redirects users to the custom 404 page with an option to return to the homepage.
+
+- **CResponsiveness**:
+Tested on various devices (desktop, tablet, and mobile) to ensure the layout adjusts seamlessly and maintains usability across different screen sizes.
+
+- **CButtons and Links**:
+Validated that all buttons and hyperlinks function correctly, providing expected results when clicked.
+
+By performing these tests, the website achieves a high level of functionality, ensuring a seamless and reliable user experience.
+
