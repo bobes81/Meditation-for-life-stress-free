@@ -46,6 +46,9 @@ Favicon
 The favicon used in this project is a simple and meaningful emoji that aligns with the website's theme of meditation and tranquility. It is designed to provide a visually appealing and recognizable icon for the website in browser tabs. The favicon adds a personal and modern touch to the overall design.
 
 
+## 404 Page
+The 404.html page is a custom error page designed to inform users when they attempt to access a page that does not exist on the website. It features a simple message and a link to return to the homepage. This ensures a better user experience by gracefully handling broken links or incorrect URLs.
+
 
 
 
