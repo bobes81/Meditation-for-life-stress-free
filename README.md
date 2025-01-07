@@ -160,3 +160,17 @@ Dark Mode Option:
 Provide a dark mode feature for users who prefer a less bright interface for nighttime browsing.
 
 
+## Design
+
+The design of the "Meditation for a Stress-Free Life" website was carefully planned to create a calming and user-friendly experience. The layout uses soft, natural colors such as green and beige to evoke a sense of tranquility and balance. The website employs a clean and minimalist aesthetic, ensuring that the content is the primary focus.
+
+### Key Design Elements:
+- **Color Scheme**: The green color used throughout the website symbolizes nature and harmony, while the beige background adds a soft, welcoming touch.
+- **Typography**: Simple and readable fonts ensure that users can easily consume the information provided.
+- **Responsive Design**: The website is fully responsive, providing an optimal viewing experience on various devices, including desktops, tablets, and smartphones.
+- **Visual Elements**: The use of images and a video in the Gallery section enhances user engagement, while green borders around these visuals provide a cohesive design element.
+- **Navigation**: The navigation menu is clean and easy to use, allowing users to quickly find the information they need.
+- **Call to Action**: Clear buttons and links guide users to take action, such as exploring the Gallery or submitting a message via the Contact form.
+
+The overall design aims to support the theme of stress reduction and mindfulness by delivering a serene, distraction-free interface.
+
