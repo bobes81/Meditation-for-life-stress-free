@@ -50,7 +50,8 @@ The favicon used in this project is a simple and meaningful emoji that aligns wi
 The 404.html page is a custom error page designed to inform users when they attempt to access a page that does not exist on the website. It features a simple message and a link to return to the homepage. This ensures a better user experience by gracefully handling broken links or incorrect URLs.
 
 
-![Gallery](Docs/readme_images/Gallery.jpg)
+![Gallery](docs/readme_images/Gallery.jpg)
+
 
 
 
