@@ -283,4 +283,19 @@ The project was hosted on GitHub, allowing for seamless collaboration and issue 
 GitHub's interface provided an efficient way to manage branches, pull requests, and resolve merge conflicts.
 These practices ensured a reliable and traceable development process, resulting in a well-maintained project repository.
 
+## Credits
+
+### Content
+- The text content on the website was written by Ivan Kimpl and I did research on meditation and mindfulness practices for this project.
+
+- Information about stress management and the benefits of meditation was gathered from trusted online sources and tutorials.
+
+### Media
+- **Images and Video**: All images and the video displayed on the website were generated using AI tools to ensure originality and avoid copyright concerns.
+- **Icons**: Social media icons were sourced from [Font Awesome](https://fontawesome.com/).
+
+### Acknowledgements
+- I had insightful consultations with my mentor, **Gareth Mc Girr**, who provided valuable feedback and guidance throughout the development of this project.
+- The creation of this project was further supported by knowledge gained from the book *Coding All-in-One For Dummies* and various YouTube tutorials.
+- Special thanks to the Code Institute community for their continuous support and resources, which greatly contributed to this project.
 
